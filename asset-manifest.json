@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/React_assessment3/static/css/main.416f85bb.css",
+    "main.js": "/github.io/React_assessment3/static/js/main.168b0a83.js",
+    "index.html": "/github.io/React_assessment3/index.html",
+    "main.416f85bb.css.map": "/github.io/React_assessment3/static/css/main.416f85bb.css.map",
+    "main.168b0a83.js.map": "/github.io/React_assessment3/static/js/main.168b0a83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.416f85bb.css",
+    "static/js/main.168b0a83.js"
+  ]
+}
